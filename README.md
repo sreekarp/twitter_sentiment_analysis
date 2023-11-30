@@ -13,8 +13,10 @@ data set link: https://datahack.analyticsvidhya.com/contest/practice-problem-twi
 * matplotlib
 * seaborn
 * scikit-learn
+* Transformers
 
 ## Algorithm used ##
 * Logistic Regression
+* A BERT model implementation is also done 
 
-**Best Model Accuracy:95.0**
+
